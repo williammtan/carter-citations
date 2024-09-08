@@ -1,3 +1,5 @@
+## Papers that cited Carter, ordered by # of citations
+
 Paper 0: [Carbon nanotube− inorganic hybrids](https://pubs.acs.org/doi/full/10.1021/cr800433k) (2010, 966 cites)
 Abstract: The world of nanomaterials provides exciting challenges and opportunities for chemists, physicists, biologists, and material scientists. The use of nanomaterials as building blocks for
 
